@@ -1,0 +1,37 @@
+numero3, numero4, numero5 = 3, 4, 5
+
+# print(numero3, numero4, numero5 )
+
+# += Asignación suma x += x + y
+# -= Asignación resta x -= x - y
+# x *= y     x = x * y
+# x **= y    x = x ** y
+# x /= y     x = x / y
+# x //= y    x = x // y  division entera
+# x %= y     x = x% y  division entera
+
+numero1 = 1
+numero2 = 2
+print(numero1, "\n")
+numero1 += numero2
+
+numero3 %= numero4
+
+print(numero3)
+
+
+numero3, numero4, numero5 = 3, 4, 5
+
+numero3 //= numero4
+
+print(numero3, "\n")
+
+cadena = "yanodg"
+
+print( "a" in cadena, )
+
+print( "a" not in cadena)
+
+
+
+
